@@ -20,10 +20,10 @@
 ## Social media
 
 <div style="display: inline_block"><br>
-	 <a href="" target="_blank"><img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+	 <a href="https://www.youtube.com/channel/UCfLwvAKP9KAM2xAPtFkPGnA" target="_blank"><img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   	 <a href="https://www.instagram.com/marcosvitorsabinodasilva/?hl=pt#" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>   
 	 <a href="https://www.facebook.com/profile.php?id=61553216010968" target="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
-	 <a href="" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
+	 <a href="https://twitter.com/MarcosV02233595" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
 	 <a href="https://www.linkedin.com/in/marcos-vitor-sabino-da-silva-8905a0170/" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
 	 <a href="https://learn.microsoft.com/pt-br/users/marcosvitorsabinodasilva-3094/" target="_blank"><img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/><a/>
 </div>
