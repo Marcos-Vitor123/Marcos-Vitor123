@@ -17,7 +17,7 @@
 	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark&layout=donut"/>   
 </div>
 		
-## My programming languages
+## Programming languages
 	
 <div style="display: inline_block"><br>
 	 <img align="center" alt="C#" height="72" width="72" src="img\csharp-original.svg"/>
@@ -26,7 +26,7 @@
 	 <img align="center" alt="Javascript" height="72" width="72" src="img\javascript-original.svg"/>
 </div>
 
-## My Frameworks
+## Frameworks
 
 <div>
 	<img align="center" alt="dotnet" height="72" width="72" src="img\dot-net-original-wordmark.svg"/>
@@ -43,13 +43,13 @@
 
 <div style="display: inline_block"><br>
 	 <img align="center" alt="Git" height="72" width="72" src="img\git-original.svg"/>
-	 <img align="center" alt="GitHub" height="72" width="72" src="img\github-original.svg"/>
+	 <img align="center" alt="GitHub" height="80" width="80" src="img\github-original.svg"/>
 </div>
 
 ## Operational systems
 
 <div style="display: inline_block"><br>
-	 <img align="center" alt="Windows" height="72" width="72" src="img\linux-original.svg"/>
-	 <img align="center" alt="Linux" height="72" width="72" src="img\vscode-original.svg"/>
+	 <img align="center" alt="Windows" height="72" width="72" src="img\windows8-original.svg"/>
+	 <img align="center" alt="Linux" height="72" width="72" src="img\linux-original.svg"/>
 </div>
              
