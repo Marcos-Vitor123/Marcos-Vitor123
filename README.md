@@ -13,8 +13,8 @@
 
 <div style="display: inline">
 	<a href="https://github.com/Marcos-Vitor123"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark"/>   
+	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"/>
+	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark"/>   
 </div>
 		
 ## My programming languages
