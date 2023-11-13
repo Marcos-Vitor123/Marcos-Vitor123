@@ -3,8 +3,8 @@
 ### Hello devs! Nice to meet you, I'm Marcos Vitor! 👋
 
 - 🔭 I currently work in the automobile industry
-- 🌱 I am currently learning C# and .NET with training from <a href="https://learn.microsoft.com/pt-br/training/">Microsoft Learn</a> and other courses such as: <a href="https://balta.io/player">Balta.io</a> or <a href="free academyhttps://www.freecodecamp.org">freeCodeCamp</a>
-- 📚 In parallel with learning languages, I was also undergoing training in EAD Software Engineering at the <a href="https://matriculas.ampli.com.br/graduacao/engenharia-de-software/">institution Ampli by Anhanguera</a>
+- 🌱 I am currently learning C# and .NET with training from [***Microsoft Learn***](https://learn.microsoft.com/pt-br/training/) and other courses such as: [***Balta.io***](https://balta.io/player) or [***freeCodeCamp***](https://www.freecodecamp.org)
+- 📚 In parallel with learning languages, I was also undergoing training in EAD ***Software Engineering*** at the [***Institution Ampli by Anhanguera***](https://matriculas.ampli.com.br/graduacao/engenharia-de-software/)
 - 👯 Initially I try to collaborate on my personal projects
 - 🤔 I'm looking for help with documentation, communities like discord and others, GPT chat, videos and tutorial courses
 - 😄 Pronouns: he/him
