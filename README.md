@@ -20,14 +20,14 @@
 ## Social media
 
 <div style="display: inline_block"><br>
-	 <a href=""><img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+	 <a href="" target="_blank"><img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   	 <a href="https://www.instagram.com/marcosvitorsabinodasilva/?hl=pt#" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>   
-	 <img align="center" alt="" src=""/>
-	 <img align="center" alt="" src=""/>
-	 <img align="center" alt="" src=""/>
-	 <img align="center" alt="" src=""/>
-	 <img align="center" alt="" src=""/>
-	 <img align="center" alt="" src=""/>
+	 <a href="" target="_blank"><img align="center" alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/><a/>
+	 <a href="" target="_blank"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/><a/>
+	 <a href="" target="_blank"><img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/><a/>
+	 <a href="" target="_blank"><img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/><a/>
+	 <a href="" target="_blank"><img align="center" alt="" src=""/><a/>
+	 <a href="" target="_blank"><img align="center" alt="" src=""/><a/>
 </div>
 
 ## Programming languages
