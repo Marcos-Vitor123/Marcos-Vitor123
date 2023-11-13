@@ -28,4 +28,8 @@
 
 ## My Frameworks
 
+<div>
+	<img align="center" alt="dotnet" height="72" width="72" src="img\dot-net-original-wordmark.svg"/>
+</div>
+
              
