@@ -40,7 +40,7 @@
 ## Frameworks
 
 <div>
-	<img align="center" alt="dotnet" height="72" width="72" src="img\dotnet-logo.PNG"/>
+	<img align="center" alt="dotnet" height="72" width="72" src="img\dotnet-logo.png"/>
 </div>
 
 ## Editors and IDEs
