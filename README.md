@@ -19,7 +19,7 @@
 		
 ## My programming languages
 	
- <div style="display: inline_block"><br>
+<div style="display: inline_block"><br>
 	 <img align="center" alt="C#" height="72" width="72" src="img\csharp-original.svg"/>
 	 <img align="center" alt="HTML5" height="72" width="72" src="img\html5-original-wordmark.svg"/>
 	 <img align="center" alt="CSS3" height="72" width="72" src="img\css3-original-wordmark.svg"/>
