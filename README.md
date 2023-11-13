@@ -11,17 +11,18 @@
 
 ## Status of my studies and career
 
-<div>
+<div style="display: inline">
 	<a href="https://github.com/Marcos-Vitor123"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"/>
-	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark"/>   
+	<img height="240em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"/>
+	<img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark"/>   
 </div>
 		
 ## My programming languages
 	
-<div style="display: inline_block"><br>
-        <img align="center" alt="C#" height="30" width="40" src="img\csharp-original.svg"/>
-</div>
+ <div style="display: inline_block"><br>
+	 <img align="center" alt="C#" height="72" width="72" src="img\csharp-original.svg"/>
+	 <img align="center" alt="C#" height="72" width="72" src="img\html5-original-wordmark.svg"/>
+ </div>
 
 ## My Frameworks
 
