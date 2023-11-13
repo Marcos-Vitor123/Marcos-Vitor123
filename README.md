@@ -8,3 +8,14 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: how programming really works behind the scenes
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true" />
+</picture>
