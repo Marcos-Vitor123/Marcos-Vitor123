@@ -16,7 +16,20 @@
 	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"/>
 	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark&layout=donut"/>   
 </div>
-		
+
+## Social media
+
+<div style="display: inline_block"><br>
+	 <a href=""><img align="center" alt="Youtube" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  	 <a href="https://www.instagram.com/marcosvitorsabinodasilva/?hl=pt#" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>   
+	 <img align="center" alt="" src=""/>
+	 <img align="center" alt="" src=""/>
+	 <img align="center" alt="" src=""/>
+	 <img align="center" alt="" src=""/>
+	 <img align="center" alt="" src=""/>
+	 <img align="center" alt="" src=""/>
+</div>
+
 ## Programming languages
 	
 <div style="display: inline_block"><br>
