@@ -21,10 +21,10 @@
 	
 <div style="display: inline_block"><br>
 	 <img align="center" alt="C#" height="72" width="72" src="img\csharp-original.svg"/>
-	 <img align="center" alt="HTML5" height="72" width="72" src="img\html5-original-wordmark.svg"/>
-	 <img align="center" alt="CSS3" height="72" width="72" src="img\css3-original-wordmark.svg"/>
+	 <img align="center" alt="HTML5" height="72" width="72" src="img\html5-original.svg"/>
+	 <img align="center" alt="CSS3" height="72" width="72" src="img\css3-original.svg"/>
 	 <img align="center" alt="Javascript" height="72" width="72" src="img\javascript-original.svg"/>
- </div>
+</div>
 
 ## My Frameworks
 
@@ -32,4 +32,24 @@
 	<img align="center" alt="dotnet" height="72" width="72" src="img\dot-net-original-wordmark.svg"/>
 </div>
 
+## Editors and IDEs
+
+<div style="display: inline_block"><br>
+	 <img align="center" alt="Visual Studio" height="72" width="72" src="img\visualstudio-plain.svg"/>
+	 <img align="center" alt="VS Code" height="72" width="72" src="img\vscode-original.svg"/>
+</div>
+
+## Versioning controls
+
+<div style="display: inline_block"><br>
+	 <img align="center" alt="Git" height="72" width="72" src="img\git-original.svg"/>
+	 <img align="center" alt="GitHub" height="72" width="72" src="img\github-original.svg"/>
+</div>
+
+## Operational systems
+
+<div style="display: inline_block"><br>
+	 <img align="center" alt="Windows" height="72" width="72" src="img\linux-original.svg"/>
+	 <img align="center" alt="Linux" height="72" width="72" src="img\vscode-original.svg"/>
+</div>
              
