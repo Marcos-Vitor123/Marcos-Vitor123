@@ -14,8 +14,7 @@
 	<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark"/>   
 </div>
 <div style="display: inline_block"><br>
-	<img align="center" alt="" height="30" width="40" src="href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-	<img align="center" alt="" height="30" width="40" src="">
+        <img align="center" alt="C#" height="30" width="40" src="img\csharp-original.svg"/>
 </div>
 
              
