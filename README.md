@@ -5,7 +5,7 @@
 - 🔭 I currently work in the automobile industry and in my spare time, I dedicate myself to my personal projects.
 - 🌱 I am currently learning C# and .NET with training from [***Microsoft Learn***](https://learn.microsoft.com/pt-br/training/) and other courses such as: [***balta.io***](https://balta.io/player) or [***freeCodeCamp***](https://www.freecodecamp.org)
 - 📚 I am also undergoing EAD training in ***Software Engineering*** at the Institution [***Ampli by Anhanguera***](https://matriculas.ampli.com.br/graduacao/engenharia-de-software/)
-- 👯 Initially I'm looking to collaborate on my personal projects for now. Therefore, soon or at any time I intend to contribute to other external projects, in order to gain experience.
+- 👯 Initially I only collaborate on my personal projects. At any time I intend to contribute to external projects, to gain experience.
 - 🤔 I'm looking for help with documentation, communities like discord and others, GPT chat, videos and tutorial courses
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: how programming really works behind the scenes
