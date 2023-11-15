@@ -2,7 +2,7 @@
 
 ### Hello devs! Nice to meet you, I'm Marcos Vitor! 👋
 
-- 🔭 I currently work in the automobile industry
+- 🔭 I currently work in the automobile industry and in my spare time, I dedicate myself to my personal projects.
 - 🌱 I am currently learning C# and .NET with training from [***Microsoft Learn***](https://learn.microsoft.com/pt-br/training/) and other courses such as: [***balta.io***](https://balta.io/player) or [***freeCodeCamp***](https://www.freecodecamp.org)
 - 📚 I am also undergoing EAD training in ***Software Engineering*** at the Institution [***Ampli by Anhanguera***](https://matriculas.ampli.com.br/graduacao/engenharia-de-software/)
 - 👯 Initially I try to collaborate on my personal projects
