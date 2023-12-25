@@ -29,16 +29,20 @@
 	 <a href="https://learn.microsoft.com/pt-br/users/marcosvitorsabinodasilva-3094/" target="_blank"><img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/><a/>
 </div>
 
-## Programming languages
+## Main Programming Language
+<div style="display: inline_block"><br>
+	<img align="center" alt="C#" height="72" width="72" src="img\csharp-original.svg"/>
+</div>
+
+## Basic Programming Language
 	
 <div style="display: inline_block"><br>
-	 <img align="center" alt="C#" height="72" width="72" src="img\csharp-original.svg"/>
 	 <img align="center" alt="HTML5" height="72" width="72" src="img\html5-original.svg"/>
 	 <img align="center" alt="CSS3" height="72" width="72" src="img\css3-original.svg"/>
 	 <img align="center" alt="Javascript" height="72" width="72" src="img\javascript-original.svg"/>
 </div>
 
-## Frameworks
+## Main Frameworks
 
 <div>
 	<img align="center" alt="dotnet" height="72" width="72" src="img\dotnet-logo.png"/>
@@ -51,14 +55,14 @@
 	 <img align="center" alt="VS Code" height="72" width="72" src="img\vscode-original.svg"/>
 </div>
 
-## Versioning controls
+## Versioning Controls
 
 <div style="display: inline_block"><br>
 	 <img align="center" alt="Git" height="72" width="72" src="img\git-original.svg"/>
 	 <img align="center" alt="GitHub" height="80" width="80" src="img\github-original.svg"/>
 </div>
 
-## Operational systems
+## Operational Systems
 
 <div style="display: inline_block"><br>
 	 <img align="center" alt="Windows" height="72" width="72" src="img\windows8-original.svg"/>
