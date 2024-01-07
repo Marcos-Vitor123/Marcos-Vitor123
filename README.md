@@ -13,7 +13,7 @@
 ## Status of my studies and career
 
 <div style="display: inline">
-	<a href="https://github.com/Marcos-Vitor123"/>
+	<a href="https://github.com/Marcos-Vitor123"/></a>
 	<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Vitor123&show_icons=true&theme=dark"/>
 	<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Vitor123&show_icons=true&theme=dark&layout=donut"/>   
 </div>
